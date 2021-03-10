@@ -1,3 +1,3 @@
 # Python
- Numpy and Pandas project
+ Numpy and Pandas project, 
  MySql project
